@@ -1,0 +1,123 @@
+Date,Day_of_Week,Time_Period,Day_of_Month,Week_of_Month,Platform,Content_Type,Duration_Minutes,Mood_After,Energy_Level,Focus_Level,Digital_Value,Custom_Tag
+01-05-2025,Thursday,Morning,1,1,Spotify,Educational,46,4,5,4,Useful,Mindful
+01-05-2025,Thursday,Morning,1,1,Snapchat,Entertainment,23,3,4,4,Not Useful,Distraction
+01-05-2025,Thursday,Night,1,1,Snapchat,Reels,16,3,3,3,Not Useful,Distraction
+01-05-2025,Thursday,Night,1,1,YouTube,Reels,29,5,4,3,Not Useful,Mindful
+02-05-2025,Friday,Night,2,1,YouTube,Educational,59,3,2,3,Not Useful,Distraction
+02-05-2025,Friday,Evening,2,1,Spotify,Educational,56,5,5,3,Useful,Mindful
+02-05-2025,Friday,Afternoon,2,1,Instagram,Educational,62,5,3,3,Useful,Mindful
+03-05-2025,Saturday,Evening,3,1,Shopping App,Shopping,82,5,4,5, Useful,Mindful
+03-05-2025,Saturday,Night,3,1,Shopping App,Shopping,64,5,4,5, Useful,Mindful
+03-05-2025,Saturday,Night,3,1,Spotify,Educational,85,3,2,2,Not Useful,Distraction
+03-05-2025,Saturday,Afternoon,3,1,Shopping App,Shopping,32,4,4,5,Not Useful,Mindful
+04-05-2025,Sunday,Night,4,1,Games App,Entertainment,25,5,3,5,Not Useful,Mindful
+04-05-2025,Sunday,Evening,4,1,Shopping App,Shopping,36,5,5,5, Useful,Mindful
+04-05-2025,Sunday,Night,4,1,Shopping App,Shopping,34,4,5,3,Not Useful,Mindful
+04-05-2025,Sunday,Night,4,1,Snapchat,Entertainment,37,4,4,5,Not Useful,Mindful
+05-05-2025,Monday,Night,5,2,Shopping App,Shopping,69,4,5,5, Useful,Mindful
+05-05-2025,Monday,Afternoon,5,2,News App,News,36,5,4,3,Useful,Mindful
+05-05-2025,Monday,Afternoon,5,2,Snapchat,Reels,11,4,3,4,Not Useful,Mindful
+05-05-2025,Monday,Night,5,2,YouTube,Reels,23,4,5,3,Not Useful,Mindful
+05-05-2025,Monday,Morning,5,2,Snapchat,Entertainment,29,4,4,4,Not Useful,Mindful
+06-05-2025,Tuesday,Night,6,2,Snapchat,Entertainment,18,4,5,4,Not Useful,Mindful
+06-05-2025,Tuesday,Evening,6,2,Snapchat,Reels,12,4,3,4,Not Useful,Mindful
+06-05-2025,Tuesday,Night,6,2,Snapchat,Entertainment,37,4,5,5,Not Useful,Mindful
+07-05-2025,Wednesday,Afternoon,7,2,Instagram,Entertainment,28,3,4,3,Not Useful,Distraction
+07-05-2025,Wednesday,Night,7,2,Instagram,Educational,85,4,4,3,Not Useful,Mindful
+07-05-2025,Wednesday,Night,7,2,News App,News,79,5,4,4,Useful,Mindful
+08-05-2025,Thursday,Afternoon,8,2,Snapchat,Reels,30,3,4,3,Not Useful,Distraction
+08-05-2025,Thursday,Night,8,2,YouTube,Entertainment,33,3,5,3,Not Useful,Distraction
+08-05-2025,Thursday,Night,8,2,YouTube,Educational,80,4,5,4,Useful,Mindful
+08-05-2025,Thursday,Evening,8,2,News App,News,88,5,4,5,Useful,Mindful
+08-05-2025,Thursday,Evening,8,2,News App,News,34,3,5,5,Useful,Distraction
+09-05-2025,Friday,Night,9,2,Games App,Entertainment,12,5,3,4,Not Useful,Mindful
+09-05-2025,Friday,Night,9,2,Instagram,Educational,73,3,3,4,Not Useful,Distraction
+09-05-2025,Friday,Evening,9,2,YouTube,Educational,60,3,5,4,Useful,Distraction
+09-05-2025,Friday,Afternoon,9,2,Snapchat,Entertainment,39,5,4,3,Not Useful,Mindful
+09-05-2025,Friday,Morning,9,2,Shopping App,Shopping,61,3,3,4,Not Useful,Distraction
+10-05-2025,Saturday,Night,10,2,Instagram,Educational,74,5,4,4,Not Useful,Mindful
+10-05-2025,Saturday,Afternoon,10,2,Shopping App,Shopping,83,4,4,5,Not Useful,Mindful
+10-05-2025,Saturday,Morning,10,2,Snapchat,Reels,24,4,3,4,Not Useful,Mindful
+10-05-2025,Saturday,Evening,10,2,Spotify,Educational,33,4,3,3,Useful,Mindful
+11-05-2025,Sunday,Morning,11,2,Snapchat,Reels,11,5,3,3,Not Useful,Mindful
+11-05-2025,Sunday,Afternoon,11,2,YouTube,Reels,16,4,5,3,Not Useful,Mindful
+11-05-2025,Sunday,Afternoon,11,2,News App,News,47,5,3,3,Useful,Mindful
+11-05-2025,Sunday,Evening,11,2,News App,News,72,5,3,4,Useful,Mindful
+12-05-2025,Monday,Evening,12,3,YouTube,Entertainment,11,3,4,3,Not Useful,Distraction
+12-05-2025,Monday,Morning,12,3,Spotify,Educational,62,4,4,3,Useful,Mindful
+12-05-2025,Monday,Morning,12,3,News App,News,59,4,3,5,Useful,Mindful
+13-05-2025,Tuesday,Night,13,3,Snapchat,Entertainment,32,5,3,3,Not Useful,Mindful
+13-05-2025,Tuesday,Afternoon,13,3,YouTube,Entertainment,29,4,4,3,Not Useful,Mindful
+13-05-2025,Tuesday,Evening,13,3,Spotify,Educational,36,5,3,4,Useful,Mindful
+13-05-2025,Tuesday,Afternoon,13,3,Spotify,Entertainment,23,4,4,4,Not Useful,Mindful
+14-05-2025,Wednesday,Evening,14,3,Spotify,Educational,53,5,4,4,Useful,Mindful
+14-05-2025,Wednesday,Morning,14,3,News App,News,57,3,4,5,Useful,Distraction
+14-05-2025,Wednesday,Morning,14,3,Spotify,Educational,72,3,3,4,Useful,Distraction
+15-05-2025,Thursday,Morning,15,3,Games App,Entertainment,21,3,4,3,Not Useful,Distraction
+15-05-2025,Thursday,Night,15,3,YouTube,Educational,52,3,2,3,Not Useful,Distraction
+15-05-2025,Thursday,Afternoon,15,3,News App,News,68,5,5,3,Useful,Mindful
+15-05-2025,Thursday,Afternoon,15,3,Instagram,Entertainment,39,4,3,5,Not Useful,Mindful
+16-05-2025,Friday,Night,16,3,YouTube,Reels,30,5,3,4,Not Useful,Mindful
+16-05-2025,Friday,Night,16,3,Spotify,Educational,40,4,4,5,Useful,Mindful
+16-05-2025,Friday,Morning,16,3,Shopping App,Shopping,40,5,3,3,Not Useful,Mindful
+16-05-2025,Friday,Night,16,3,Snapchat,Entertainment,29,4,3,5,Not Useful,Mindful
+16-05-2025,Friday,Morning,16,3,Instagram,Reels,19,4,4,4,Not Useful,Mindful
+17-05-2025,Saturday,Morning,17,3,YouTube,Reels,11,3,3,3,Not Useful,Distraction
+17-05-2025,Saturday,Afternoon,17,3,News App,News,50,3,4,4,Useful,Distraction
+17-05-2025,Saturday,Afternoon,17,3,Instagram,Educational,44,4,5,5,Useful,Mindful
+17-05-2025,Saturday,Morning,17,3,Instagram,Educational,32,4,4,3,Useful,Mindful
+18-05-2025,Sunday,Night,18,3,Spotify,Educational,48,3,3,3,Useful,Distraction
+18-05-2025,Sunday,Night,18,3,News App,News,35,4,3,4,Useful,Mindful
+18-05-2025,Sunday,Night,18,3,Spotify,Educational,85,4,3,3,Useful,Mindful
+18-05-2025,Sunday,Afternoon,18,3,YouTube,Reels,13,4,3,5,Not Useful,Mindful
+19-05-2025,Monday,Afternoon,19,4,YouTube,Educational,46,3,4,5,Useful,Distraction
+19-05-2025,Monday,Morning,19,4,YouTube,Reels,25,4,4,4,Not Useful,Mindful
+19-05-2025,Monday,Evening,19,4,Shopping App,Shopping,39,4,4,4,Not Useful,Mindful
+19-05-2025,Monday,Evening,19,4,Spotify,Educational,62,3,4,3,Useful,Distraction
+20-05-2025,Tuesday,Evening,20,4,YouTube,Educational,69,4,3,4,Useful,Mindful
+20-05-2025,Tuesday,Morning,20,4,Spotify,Entertainment,20,4,4,5,Not Useful,Mindful
+20-05-2025,Tuesday,Night,20,4,YouTube,Entertainment,32,3,4,3,Not Useful,Distraction
+20-05-2025,Tuesday,Night,20,4,Games App,Entertainment,21,4,3,4,Not Useful,Mindful
+21-05-2025,Wednesday,Morning,21,4,News App,News,34,4,4,4,Useful,Mindful
+21-05-2025,Wednesday,Evening,21,4,News App,News,51,3,4,5,Useful,Distraction
+21-05-2025,Wednesday,Evening,21,4,Games App,Entertainment,14,4,5,3,Not Useful,Mindful
+21-05-2025,Wednesday,Night,21,4,Snapchat,Entertainment,36,3,4,5,Not Useful,Distraction
+22-05-2025,Thursday,Morning,22,4,Snapchat,Entertainment,26,4,3,3,Not Useful,Mindful
+22-05-2025,Thursday,Afternoon,22,4,Instagram,Entertainment,16,3,3,3,Not Useful,Distraction
+22-05-2025,Thursday,Morning,22,4,Spotify,Entertainment,31,4,5,3,Not Useful,Mindful
+22-05-2025,Thursday,Night,22,4,YouTube,Educational,83,4,4,5,Useful,Mindful
+22-05-2025,Thursday,Night,22,4,YouTube,Entertainment,31,5,5,4,Not Useful,Mindful
+23-05-2025,Friday,Night,23,4,YouTube,Educational,49,5,5,5,Useful,Mindful
+23-05-2025,Friday,Afternoon,23,4,Instagram,Educational,58,4,3,4,Useful,Mindful
+23-05-2025,Friday,Night,23,4,Games App,Entertainment,35,4,5,3,Not Useful,Mindful
+23-05-2025,Friday,Night,23,4,Shopping App,Shopping,75,5,5,3,Not Useful,Mindful
+23-05-2025,Friday,Afternoon,23,4,Instagram,Educational,39,5,3,5,Useful,Mindful
+24-05-2025,Saturday,Evening,24,4,Shopping App,Shopping,33,4,3,4,Not Useful,Mindful
+24-05-2025,Saturday,Morning,24,4,Instagram,Reels,20,5,5,4,Not Useful,Mindful
+24-05-2025,Saturday,Afternoon,24,4,YouTube,Entertainment,39,5,4,3,Not Useful,Mindful
+24-05-2025,Saturday,Night,24,4,Spotify,Entertainment,38,3,3,5,Useful,Distraction
+25-05-2025,Sunday,Night,25,4,YouTube,Entertainment,17,4,3,4,Not Useful,Mindful
+25-05-2025,Sunday,Night,25,4,YouTube,Entertainment,29,4,4,4,Not Useful,Mindful
+25-05-2025,Sunday,Afternoon,25,4,Instagram,Reels,29,4,4,3,Not Useful,Mindful
+25-05-2025,Sunday,Morning,25,4,Spotify,Educational,34,5,4,5,Useful,Mindful
+25-05-2025,Sunday,Morning,25,4,Instagram,Entertainment,11,4,5,3,Not Useful,Mindful
+26-05-2025,Monday,Evening,26,5,News App,News,45,5,4,5,Useful,Mindful
+26-05-2025,Monday,Evening,26,5,YouTube,Entertainment,27,4,4,5,Not Useful,Mindful
+26-05-2025,Monday,Night,26,5,Games App,Entertainment,30,3,3,4,Not Useful,Distraction
+27-05-2025,Tuesday,Morning,27,5,Instagram,Reels,35,3,3,5,Not Useful,Distraction
+27-05-2025,Tuesday,Night,27,5,Games App,Entertainment,18,3,4,3,Not Useful,Distraction
+27-05-2025,Tuesday,Morning,27,5,Shopping App,Shopping,47,3,3,5,Not Useful,Distraction
+27-05-2025,Tuesday,Night,27,5,Shopping App,Shopping,51,5,4,4,Not Useful,Mindful
+28-05-2025,Wednesday,Evening,28,5,News App,News,35,4,5,3,Useful,Mindful
+28-05-2025,Wednesday,Evening,28,5,Instagram,Reels,20,4,3,4,Not Useful,Mindful
+28-05-2025,Wednesday,Night,28,5,YouTube,Entertainment,21,4,4,5,Not Useful,Mindful
+28-05-2025,Wednesday,Night,28,5,Instagram,Reels,12,4,4,4,Not Useful,Mindful
+28-05-2025,Wednesday,Afternoon,28,5,Games App,Entertainment,37,4,5,3,Not Useful,Mindful
+29-05-2025,Thursday,Afternoon,29,5,News App,News,53,4,4,4,Useful,Mindful
+29-05-2025,Thursday,Night,29,5,Shopping App,Shopping,58,5,4,4,Not Useful,Mindful
+29-05-2025,Thursday,Night,29,5,Instagram,Entertainment,17,5,3,3,Not Useful,Mindful
+30-05-2025,Friday,Night,30,5,Shopping App,Shopping,46,5,4,3,Not Useful,Mindful
+30-05-2025,Friday,Evening,30,5,Snapchat,Entertainment,16,3,5,4,Not Useful,Distraction
+30-05-2025,Friday,Night,30,5,Games App,Entertainment,31,4,3,4,Not Useful,Mindful
+30-05-2025,Friday,Evening,30,5,Shopping App,Shopping,80,4,3,5,Not Useful,Mindful
+30-05-2025,Friday,Afternoon,30,5,YouTube,Entertainment,10,4,4,4,Not Useful,Mindful

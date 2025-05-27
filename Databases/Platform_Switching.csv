@@ -1,0 +1,11 @@
+From Platform,To Platform,Count
+YouTube,Instagram,10
+Instagram,News,8
+News,YouTube,6
+YouTube,Podcasts,5
+Books,YouTube,4
+Podcasts,Books,3
+Instagram,YouTube,7
+News,Instagram,4
+Books,Podcasts,2
+YouTube,Books,6
