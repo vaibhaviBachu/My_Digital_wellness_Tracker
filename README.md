@@ -5,9 +5,11 @@
 ---
 
 ##  Introduction
-In the modern digital age, excessive use of digital devices has become a major concern affecting mental health, productivity, and overall well-being. Monitoring digital behavior such as screen time, usage patterns, and daily activity trends is essential to maintain a healthy balance between digital and personal life.
+In today’s digitally connected world, excessive screen usage and unstructured digital habits can significantly impact productivity, mental health, and overall well-being. Understanding one’s own digital behavior is the first step toward building healthier and more mindful technology usage patterns.
 
-**My Digital Wellness Tracker** is an interactive **Tableau dashboard** designed to analyze and visualize digital wellness data. The project converts raw digital usage data into meaningful insights using data visualization techniques, helping users understand their digital habits and make informed decisions to improve their lifestyle.
+**My Digital Wellness Tracker** is a **self-driven, data visualization project** built using **my own 30 days of personal digital usage data**. The objective of this project is to track, analyze, and understand my daily digital behavior by converting raw usage data into meaningful visual insights using **Tableau**.
+
+This dashboard reflects my real-life digital habits, including daily usage trends and behavioral patterns. By analyzing this data, the project helps identify periods of excessive screen time, productivity fluctuations, and opportunities to improve digital wellness. The project emphasizes **self-awareness through data analytics** and demonstrates how personal data can be effectively used to drive behavioral change.
 
 ---
 
@@ -39,8 +41,6 @@ In the modern digital age, excessive use of digital devices has become a major c
 -  Key Performance Indicators (KPIs)  
 -  Filters and slicers for dynamic exploration  
 -  Time-based trend analysis  
-- 🧠 Clear visual storytelling of digital habits  
+-  Clear visual storytelling of digital habits  
 
----
 
-## 📂 Project Structure
